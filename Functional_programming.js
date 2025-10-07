@@ -90,7 +90,7 @@ console.log(add(2,4));
 //             };
 
 //     console.log(counter());
-let d = 0;
+
 let sum = 0;
 debugger;
 const totaling = (nums) => {
